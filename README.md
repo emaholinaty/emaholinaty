@@ -1,6 +1,5 @@
 
 Recently graduated in Physics, I am uploading some of the computational projects I developed throughout my degree. My bachelor's thesis focused on the study of open star clusters using Gaia DR3 data, which reignited my passion for astrophysics and space science, as well as for the computational tools that enable us to investigate these systems. During this project, I primarily worked with Python, although I have also used MATLAB and C++ in the past, as seen in some of the uploaded projects. 
-
 It is truly amazing how we can use these technologies to explore and model the beautifully complex reality in which we live in. 
 
 ## About Me
