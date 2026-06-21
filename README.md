@@ -4,12 +4,12 @@ Physics graduate interested in scientific computing, numerical simulation, mathe
 ## About Me
 
 🔭 Areas of interest:
+- Aerospace
+- Astrophysics
+- Physics Simulations
 - Scientific Computing
 - Numerical Methods
 - Mathematical Modelling
-- Aerospace
-- Energy Technologies
-- Physics Simulations
 
 ## Technologies
 
